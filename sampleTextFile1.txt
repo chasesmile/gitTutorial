@@ -1,1 +1,2 @@
-This is a simple text file, text is okdds
+this is a simple text file, text is ok. 
+updating text file 1
